@@ -1,0 +1,7 @@
+source_system,external_item_id,canonical_product_id,source_uom,base_uom,to_base_factor
+ERP,ERP-SKU-001,SKU-001,EA,EA,1
+WMS,WMS-BRC-001,SKU-001,EA,EA,1
+ERP,ERP-BOX-12,SKU-002,BOX,EA,12
+WMS,WMS-MAT-2002,SKU-002,EA,EA,1
+ERP,ERP-SKU-003,SKU-003,EA,EA,1
+WMS,WMS-BRC-003,SKU-003,EA,EA,1

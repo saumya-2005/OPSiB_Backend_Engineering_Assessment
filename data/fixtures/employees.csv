@@ -1,0 +1,7 @@
+source_employee_id,display_name,employment_status,role,location_code,manager_employee_id,region_id
+HR-101,Asha Rao,ACTIVE,receiving_associate,ST-014,HR-201,REGION-MH
+HR-102,Dev Shah,ACTIVE,receiving_associate,ST-014,HR-201,REGION-MH
+HR-103,Nikhil Das,INACTIVE,receiving_associate,ST-014,HR-201,REGION-MH
+HR-201,Meera Kulkarni,ACTIVE,store_manager,ST-014,,REGION-MH
+HR-401,Rohan Iyer,ACTIVE,store_manager,ST-015,,REGION-MH
+HR-501,Priya Menon,ACTIVE,regional_operations,,,REGION-MH
